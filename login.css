@@ -1,0 +1,51 @@
+body{
+    background-image: url(coffeebackground.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
+h1{
+    color: rgb(48, 11, 11);
+    text-shadow: brown;
+    text-decoration-style: solid;
+    margin-left: 200px;
+    font-size: 80px;
+}
+h2{
+    color: rgb(117, 17, 17);
+    font-size: 34px;
+    margin-top: 20px;
+    margin-left: 120px;
+}
+div{
+    background-color: rgb(226, 188, 188);
+    height: 550px;
+    width: 40%;
+    margin-left: 30px;
+    margin-top: 40px;
+    border-color: black;
+    background-color: transparent;
+    border: solid;
+}
+input{
+    height: 20px;
+    width: 200px;
+}
+select{
+    height: 25px;
+    width: 200px;
+}
+pre{
+    font-size: 24px;
+    margin-left: 5px;
+}
+button{
+    background-color: rgb(139, 48, 48);
+    color: white;
+    font-size: 26px;
+    margin-left: 120px;
+}
+.form2{
+    margin-left: -50px;
+    margin-top: -10px;     
+}
